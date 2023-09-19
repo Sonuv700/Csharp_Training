@@ -1,0 +1,7 @@
+C:\Users\sonuv\source\repos\CodeBase_2\CodeBase_2\bin\Debug\CodeBase_2.exe.config
+C:\Users\sonuv\source\repos\CodeBase_2\CodeBase_2\bin\Debug\CodeBase_2.exe
+C:\Users\sonuv\source\repos\CodeBase_2\CodeBase_2\bin\Debug\CodeBase_2.pdb
+C:\Users\sonuv\source\repos\CodeBase_2\CodeBase_2\obj\Debug\CodeBase_2.csproj.AssemblyReference.cache
+C:\Users\sonuv\source\repos\CodeBase_2\CodeBase_2\obj\Debug\CodeBase_2.csproj.CoreCompileInputs.cache
+C:\Users\sonuv\source\repos\CodeBase_2\CodeBase_2\obj\Debug\CodeBase_2.exe
+C:\Users\sonuv\source\repos\CodeBase_2\CodeBase_2\obj\Debug\CodeBase_2.pdb

@@ -1,0 +1,7 @@
+C:\Users\sonuv\source\repos\Assignment_4_2\Assignment_4_2\bin\Debug\Assignment_4_2.exe.config
+C:\Users\sonuv\source\repos\Assignment_4_2\Assignment_4_2\bin\Debug\Assignment_4_2.exe
+C:\Users\sonuv\source\repos\Assignment_4_2\Assignment_4_2\bin\Debug\Assignment_4_2.pdb
+C:\Users\sonuv\source\repos\Assignment_4_2\Assignment_4_2\obj\Debug\Assignment_4_2.csproj.AssemblyReference.cache
+C:\Users\sonuv\source\repos\Assignment_4_2\Assignment_4_2\obj\Debug\Assignment_4_2.csproj.CoreCompileInputs.cache
+C:\Users\sonuv\source\repos\Assignment_4_2\Assignment_4_2\obj\Debug\Assignment_4_2.exe
+C:\Users\sonuv\source\repos\Assignment_4_2\Assignment_4_2\obj\Debug\Assignment_4_2.pdb
