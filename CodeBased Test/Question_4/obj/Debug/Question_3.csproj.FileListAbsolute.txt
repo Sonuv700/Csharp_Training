@@ -1,0 +1,6 @@
+D:\CSharp Training\CodeBased Test\Question_4\bin\Debug\Question_4.exe.config
+D:\CSharp Training\CodeBased Test\Question_4\bin\Debug\Question_4.exe
+D:\CSharp Training\CodeBased Test\Question_4\bin\Debug\Question_4.pdb
+D:\CSharp Training\CodeBased Test\Question_4\obj\Debug\Question_3.csproj.CoreCompileInputs.cache
+D:\CSharp Training\CodeBased Test\Question_4\obj\Debug\Question_4.exe
+D:\CSharp Training\CodeBased Test\Question_4\obj\Debug\Question_4.pdb
