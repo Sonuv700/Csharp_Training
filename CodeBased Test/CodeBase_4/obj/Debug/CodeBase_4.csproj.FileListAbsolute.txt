@@ -1,6 +1,0 @@
-D:\CSharp Training\CodeBased Test\CodeBase_4\bin\Debug\CodeBase_4.exe.config
-D:\CSharp Training\CodeBased Test\CodeBase_4\bin\Debug\CodeBase_4.exe
-D:\CSharp Training\CodeBased Test\CodeBase_4\bin\Debug\CodeBase_4.pdb
-D:\CSharp Training\CodeBased Test\CodeBase_4\obj\Debug\CodeBase_4.csproj.CoreCompileInputs.cache
-D:\CSharp Training\CodeBased Test\CodeBase_4\obj\Debug\CodeBase_4.exe
-D:\CSharp Training\CodeBased Test\CodeBase_4\obj\Debug\CodeBase_4.pdb

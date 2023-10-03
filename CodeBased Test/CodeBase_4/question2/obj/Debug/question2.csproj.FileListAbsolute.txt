@@ -1,0 +1,7 @@
+D:\CSharp Training\CodeBased Test\CodeBase_4\question2\bin\Debug\question2.exe.config
+D:\CSharp Training\CodeBased Test\CodeBase_4\question2\bin\Debug\question2.exe
+D:\CSharp Training\CodeBased Test\CodeBase_4\question2\bin\Debug\question2.pdb
+D:\CSharp Training\CodeBased Test\CodeBase_4\question2\obj\Debug\question2.csproj.AssemblyReference.cache
+D:\CSharp Training\CodeBased Test\CodeBase_4\question2\obj\Debug\question2.csproj.CoreCompileInputs.cache
+D:\CSharp Training\CodeBased Test\CodeBase_4\question2\obj\Debug\question2.exe
+D:\CSharp Training\CodeBased Test\CodeBase_4\question2\obj\Debug\question2.pdb
