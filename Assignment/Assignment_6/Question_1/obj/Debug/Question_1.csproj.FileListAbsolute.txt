@@ -1,6 +1,0 @@
-D:\CSharp Training\Assignment_6\Question_1\bin\Debug\Question_1.dll
-D:\CSharp Training\Assignment_6\Question_1\bin\Debug\Question_1.pdb
-D:\CSharp Training\Assignment_6\Question_1\obj\Debug\Question_1.csproj.AssemblyReference.cache
-D:\CSharp Training\Assignment_6\Question_1\obj\Debug\Question_1.csproj.CoreCompileInputs.cache
-D:\CSharp Training\Assignment_6\Question_1\obj\Debug\Question_1.dll
-D:\CSharp Training\Assignment_6\Question_1\obj\Debug\Question_1.pdb

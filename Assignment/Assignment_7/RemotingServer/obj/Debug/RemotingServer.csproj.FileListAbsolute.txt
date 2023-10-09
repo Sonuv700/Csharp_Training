@@ -1,7 +1,0 @@
-D:\CSharp Training\Assignment_7\RemotingServer\obj\Debug\RemotingServer.csproj.AssemblyReference.cache
-D:\CSharp Training\Assignment_7\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache
-D:\CSharp Training\Assignment_7\RemotingServer\bin\Debug\RemotingServer.exe.config
-D:\CSharp Training\Assignment_7\RemotingServer\bin\Debug\RemotingServer.exe
-D:\CSharp Training\Assignment_7\RemotingServer\bin\Debug\RemotingServer.pdb
-D:\CSharp Training\Assignment_7\RemotingServer\obj\Debug\RemotingServer.exe
-D:\CSharp Training\Assignment_7\RemotingServer\obj\Debug\RemotingServer.pdb

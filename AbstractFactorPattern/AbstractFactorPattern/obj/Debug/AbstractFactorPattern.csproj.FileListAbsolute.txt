@@ -1,7 +1,0 @@
-D:\CSharp Training\AbstractFactorPattern\AbstractFactorPattern\bin\Debug\AbstractFactorPattern.exe.config
-D:\CSharp Training\AbstractFactorPattern\AbstractFactorPattern\bin\Debug\AbstractFactorPattern.exe
-D:\CSharp Training\AbstractFactorPattern\AbstractFactorPattern\bin\Debug\AbstractFactorPattern.pdb
-D:\CSharp Training\AbstractFactorPattern\AbstractFactorPattern\obj\Debug\AbstractFactorPattern.csproj.AssemblyReference.cache
-D:\CSharp Training\AbstractFactorPattern\AbstractFactorPattern\obj\Debug\AbstractFactorPattern.csproj.CoreCompileInputs.cache
-D:\CSharp Training\AbstractFactorPattern\AbstractFactorPattern\obj\Debug\AbstractFactorPattern.exe
-D:\CSharp Training\AbstractFactorPattern\AbstractFactorPattern\obj\Debug\AbstractFactorPattern.pdb
