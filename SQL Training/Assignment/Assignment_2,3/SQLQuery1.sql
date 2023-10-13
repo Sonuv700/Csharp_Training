@@ -38,40 +38,6 @@ insert into emp values
 (7900, 'JAMES', 'CLERK', 7698, '1981-12-03', 950, NULL, 30),
 (7902, 'FORD', 'ANALYST', 7566, '1981-12-03', 3000, NULL, 20),
 (7934, 'MILLER', 'CLERK', 7782, '1982-01-23', 1300, NULL, 10);
----SELECT*FROM EMP;
 
----**List all employees whose name begins with 'A'.
-SELECT*FROM EMP WHERE ENAME LIKE 'A%'
-
----**Select all those employees who don't have a manager. 
-SELECT*FROM EMP WHERE EMGR_ID IS NULL
-
----**List employee name, number and salary for those employees who earn in the range 1200 to 1400. 
-SELECT ename, empno, salary
-from emp
-where salary between 1200 and 1400;
-
-
-
----Give all the employees in the RESEARCH department a 10% pay rise. Verify that this has been done by listing all their details before and after the rise. 
-
-
-
----**Find the number of CLERKS employed. Give it a descriptive heading. 
-SELECT COUNT(*) AS "Number of CLERKS"
-FROM emp  
-WHERE ejob = 'CLERK';
----**Find the average salary for each job type and the number of people employed in each job.
-SELECT ejob, 
-AVG(salary) AS "Average Salary",
-COUNT(*) AS "Number of Employees"
-FROM emp  
-GROUP BY ejob
-ORDER BY ejob;
----**List the employees with the lowest and highest salary. 
-select top 1 with ties ename,ejob, salary
-FROM emp 
-ORDER BY salary ASC;
-select top 1 with ties ename,ejob, salary
-FROM emp 
-ORDER BY salary DESC;
+alter database ASSIGNMENT_1 modify name =Assignment_1
+ 
