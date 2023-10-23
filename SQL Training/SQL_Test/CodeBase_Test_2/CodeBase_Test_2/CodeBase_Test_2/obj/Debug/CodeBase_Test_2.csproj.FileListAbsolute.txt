@@ -1,0 +1,7 @@
+D:\PracticeC#\Sonu_codes\SQL Training\SQL_Test\CodeBase_Test_2\CodeBase_Test_2\CodeBase_Test_2\bin\Debug\CodeBase_Test_2.exe.config
+D:\PracticeC#\Sonu_codes\SQL Training\SQL_Test\CodeBase_Test_2\CodeBase_Test_2\CodeBase_Test_2\bin\Debug\CodeBase_Test_2.exe
+D:\PracticeC#\Sonu_codes\SQL Training\SQL_Test\CodeBase_Test_2\CodeBase_Test_2\CodeBase_Test_2\bin\Debug\CodeBase_Test_2.pdb
+D:\PracticeC#\Sonu_codes\SQL Training\SQL_Test\CodeBase_Test_2\CodeBase_Test_2\CodeBase_Test_2\obj\Debug\CodeBase_Test_2.csproj.AssemblyReference.cache
+D:\PracticeC#\Sonu_codes\SQL Training\SQL_Test\CodeBase_Test_2\CodeBase_Test_2\CodeBase_Test_2\obj\Debug\CodeBase_Test_2.csproj.CoreCompileInputs.cache
+D:\PracticeC#\Sonu_codes\SQL Training\SQL_Test\CodeBase_Test_2\CodeBase_Test_2\CodeBase_Test_2\obj\Debug\CodeBase_Test_2.exe
+D:\PracticeC#\Sonu_codes\SQL Training\SQL_Test\CodeBase_Test_2\CodeBase_Test_2\CodeBase_Test_2\obj\Debug\CodeBase_Test_2.pdb
