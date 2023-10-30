@@ -42,9 +42,7 @@ namespace Case_Study
             }
             void scenario1()
             {
-                //Student s1 = new Student(1033404,"SHREYANK",new DateTime(2001,05,29));
-                //Info info1 = new Info();
-                //info1.Display(s1);
+                
 
                 Console.WriteLine(" scenario 1");
                 Console.WriteLine("Enter the number of students");
